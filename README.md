@@ -16,4 +16,9 @@ It displays two chess images side by side, each styled with a unique border and 
 
 ## 🛠️ Tech Stack
 - **HTML5** – Structure  
-- **CSS3** – Styling & Layout  
+- **CSS3** – Styling & Layout
+
+---
+
+- ## 🔗 Project Link
+👉 [View Live Project](https://ruchit1806.github.io/chess-ui/)
